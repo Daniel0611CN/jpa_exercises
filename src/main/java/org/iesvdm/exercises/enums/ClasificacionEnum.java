@@ -1,4 +1,4 @@
-package org.iesvdm.peliculas.enums;
+package org.iesvdm.exercises.enums;
 
 public enum ClasificacionEnum {
 

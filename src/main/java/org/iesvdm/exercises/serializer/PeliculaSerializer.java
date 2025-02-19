@@ -1,10 +1,10 @@
-package org.iesvdm.peliculas.serializer;
+package org.iesvdm.exercises.serializer;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.SerializerProvider;
 import com.fasterxml.jackson.databind.ser.std.StdSerializer;
-import org.iesvdm.peliculas.domain.Pelicula;
+import org.iesvdm.exercises.domain.Pelicula;
 
 import java.io.IOException;
 

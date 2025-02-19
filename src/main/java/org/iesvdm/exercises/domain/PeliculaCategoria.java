@@ -1,4 +1,4 @@
-package org.iesvdm.peliculas.domain;
+package org.iesvdm.exercises.domain;
 
 import jakarta.persistence.*;
 import lombok.*;

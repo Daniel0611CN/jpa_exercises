@@ -1,10 +1,10 @@
-package org.iesvdm.peliculas.domain;
+package org.iesvdm.exercises.domain;
 
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import org.iesvdm.peliculas.enums.ClasificacionEnum;
-import org.iesvdm.peliculas.serializer.PeliculaSerializer;
+import org.iesvdm.exercises.enums.ClasificacionEnum;
+import org.iesvdm.exercises.serializer.PeliculaSerializer;
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
