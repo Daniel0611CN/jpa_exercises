@@ -1,13 +1,13 @@
-package org.iesvdm.peliculas;
+package org.iesvdm.exercises;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PeliculasApplication {
+public class JPAExercisesApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PeliculasApplication.class, args);
+        SpringApplication.run(JPAExercisesApplication.class, args);
     }
 
 }

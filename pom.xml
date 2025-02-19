@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.iesvdm</groupId>
-    <artifactId>peliculas_jpa</artifactId>
+    <artifactId>jpa_exercises</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>peliculas_jpa</name>
     <description>peliculas_jpa</description>
